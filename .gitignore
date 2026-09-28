@@ -1,0 +1,10 @@
+.DS_Store
+
+# Keep device-specific secrets and runtime state out of Git.
+*.topic
+*.cursor
+*.recover-at
+*.shortcut
+*.shortcuts
+private/
+secrets/
